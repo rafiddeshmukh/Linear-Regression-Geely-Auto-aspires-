@@ -1,5 +1,8 @@
 # Linear-Regression-Geely-Auto-aspires
 
+![image](https://github.com/rafiddeshmukh/Linear-Regression-Geely-Auto-aspires-/assets/52603382/b7f0b59e-60f9-42a7-b9d0-89c02ca13106)
+
+
 **Problem Statement:**
 
 A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
